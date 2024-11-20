@@ -1,0 +1,28 @@
+.home1-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home1-text1 {
+  display: inline-block;
+}
+.home1-text2 {
+  display: inline-block;
+}
+.home1-text3 {
+  display: inline-block;
+}
+.home1-text4 {
+  display: inline-block;
+}
+.home1-text5 {
+  display: inline-block;
+}
+.home1-text6 {
+  display: inline-block;
+}
+.home1-text7 {
+  display: inline-block;
+}
